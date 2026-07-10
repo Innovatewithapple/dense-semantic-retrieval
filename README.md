@@ -106,8 +106,7 @@ dense-semantic-retrieval/
 Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/dense-semantic-retrieval.git
-
+git clone https://github.com/Innovatewithapple/dense-semantic-retrieval
 cd dense-semantic-retrieval
 ```
 
