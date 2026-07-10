@@ -1,0 +1,11 @@
+{
+  "architectures": [
+    "BertRetriever"
+  ],
+  "backbone_name": "bert-base-uncased",
+  "dropout": 0.2,
+  "dtype": "float32",
+  "hidden_size": 768,
+  "model_type": "bert_retriever",
+  "transformers_version": "4.57.6"
+}

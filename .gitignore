@@ -1,0 +1,54 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ==========================
+# Virtual Environments
+# ==========================
+.venv/
+venv/
+env/
+
+# ==========================
+# VS Code
+# ==========================
+.vscode/
+
+# ==========================
+# macOS
+# ==========================
+.DS_Store
+
+# ==========================
+# Jupyter
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# Python Cache
+# ==========================
+.pytest_cache/
+.mypy_cache/
+
+# ==========================
+# Hugging Face Cache
+# ==========================
+.cache/
+.huggingface/
+
+# ==========================
+# Environment Variables
+# ==========================
+.env
+
+# ==========================
+# Large Training Checkpoints
+# ==========================
+huggingface/model.safetensors
+models/*.pth
+
+# Keep empty models folder
+!models/.gitkeep
