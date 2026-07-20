@@ -4,6 +4,14 @@ A dense retrieval model fine-tuned on the **MS MARCO** dataset for semantic sear
 
 The project includes the complete pipeline from data preprocessing and model fine-tuning to evaluation and Hugging Face model packaging.
 
+## 📊 Benchmark Evaluation
+
+The trained Dense Retriever was further evaluated on multiple **BEIR benchmark datasets** to measure its generalization performance using standard Information Retrieval metrics such as **Recall@k**, **MRR** and **nDCG**.
+
+➡️ **Benchmark Repository:** [https://github.com/Innovatewithapple/YOUR-BEIR-REPOSITORY](https://github.com/Innovatewithapple/bert-dense-retriever-benchmark)
+
+➡️ **Hugging Face Model:** [https://huggingface.co/Innovatewithapple/bert-dense-retriever](https://huggingface.co/Innovatewithapple/bert-dense-retriever)
+
 ---
 
 ## ✨ Features
@@ -188,7 +196,7 @@ The model has been exported using the Hugging Face `PreTrainedModel` API and inc
 - custom model implementation
 - custom configuration
 
-(Repository link will be added after publishing.)
+[https://huggingface.co/Innovatewithapple/bert-dense-retriever](https://huggingface.co/Innovatewithapple/bert-dense-retriever)
 
 ---
 
