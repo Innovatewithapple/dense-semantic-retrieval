@@ -8,9 +8,9 @@ The project includes the complete pipeline from data preprocessing and model fin
 
 The trained Dense Retriever was further evaluated on multiple **BEIR benchmark datasets** to measure its generalization performance using standard Information Retrieval metrics such as **Recall@k**, **MRR** and **nDCG**.
 
-➡️ **Benchmark Repository:** [https://github.com/Innovatewithapple/YOUR-BEIR-REPOSITORY](https://github.com/Innovatewithapple/bert-dense-retriever-benchmark)
+➡️ **Benchmark Repository:** https://github.com/Innovatewithapple/bert-dense-retriever-benchmark
 
-➡️ **Hugging Face Model:** [https://huggingface.co/Innovatewithapple/bert-dense-retriever](https://huggingface.co/Innovatewithapple/bert-dense-retriever)
+➡️ **Hugging Face Model:** https://huggingface.co/Innovatewithapple/bert-dense-retriever
 
 ---
 
